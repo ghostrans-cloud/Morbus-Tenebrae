@@ -1,0 +1,84 @@
+{
+  "start": {
+    "question": "Jsi felčar. Svůj život si zasvětil pomáhání bližním, když je sužovala lecjaká nemoc. Bohužel, po třetí vlně nákazy, známé mezi doktory jako Morbus Tenebrae, a prostým lidem jako Stínová sněť, už jenom prodlužuješ agonii a snažíš se, aby byla co nejmenší. \n\n Žiješ v karanténní zoně, v jedné z Citadel Očištění, označované lidma jako Výheň. Minulej měsíc ti bylo řečeno, že tvá dcera Sora byla mezi spálenejma. Tys tomu ale nevěřil, stále věříš, že jen utekla za přítelem, kterého jsi jí neschválil. \n\n Dnes ráno slyšíš hlas. Chrčivý, ale známý. Zní jako ona. Musí to být ona. Zpívá si říkanku, kterou jsi jí šeptal před spaním jako malé. Po hlase dojdeš do sklepního prostoru, kde jsou těžké kovové dveře. Tvá ruka padne na kliku. Zevnitř cítíš teplo, vlhkost a hnusný pach...\n\n který moc dobře znáš.",
+    "options": [
+      {
+        "label": "Pustím kliku a běžím to nahlásit nadřízenému.",
+        "faction": "Očistec",
+        "next": "OA"
+      },
+      {
+        "label": "Otevřu dveře.", 
+        "next": "PA",
+        "faction": "Očistec"
+      }
+    ]
+  },
+  "PA": {
+    "question": "Otevřeš dveře a v šeru uvidíš ji. \n\n Svou dceru.\n\n Když si tvé oči zvyknou na to šero, vidíš, že její kůže je bělavá, místama pokrytá jemným porostem a rostoucíma kořínkama. Oči jsou podlité krví, ale dívá se na tebe s chladným klidem, který tě děsí. \n\n *Jsem doma tati, nic mě nebolí, oni mi ukázali lepší svět, bez bolesti. Vezmou i tebe,* \n\n a natáhne ruku. ",
+    "options": [
+      {
+        "label": "Vytáhnu ampulku s tekutým ohněm, hodím ji dovnitř a zabouchnu dveře..",
+        "faction": "Očistec",
+        "next": "konec_ocistec2"
+      },
+      {
+        "label": "Vstoupím a vezmu ji za ruku.",
+        "faction": "Přijímající",
+        "next": "PB"
+      }
+    ]
+  },
+  "OA": {
+    "question": "Polkneš. Oklepeš se. Ruka klesne. Uděláš krok zpět. Druhý. Třetí. V hlavě se ozývá rytmus její říkanky. Každé slovo je jako jehla. Otočíš se, rozběhneš se po schodech chodbou zpět do horních pater Výhně. Přeskáčeš další schody, přičemž zakopneš o hadici a málem si zvrkneš kotník, ale běžíš. \n\n Doběhneš až do Audatoria nad Spalovacím dvorem. Soudkyně Liora Premis stojí před řadou mlčících sester a přejíždí prstem po pergamenu. Pomalý, úsporný pohyb. Její oči se na tebe ani nepodívají. \n\n *Mluv!* \n\n *Soudkyně Premis... Dole... Ve sklepě. Dívčí hlas. Zpívala... říkanku. Myslím, že to byla... že to mohla být... moje dcera,* vyhrkáš ze sebe udýchaně.\n\n Liora ztuhne. Pouze na zlomek vteřiny. Její rty se ani nepohnou. Po chvilce odpoví. \n\n *Jak dlouho to trvalo?* \n\n *Já nevím. Asi pět, deset vteřin. Ale bylo to znatelné.* \n\n Když konečně zvedne hlavu a upře na tebe svůj pohled. Je to jako by ti zarazila prst do měkkého místa pod hrudním košem. Její oči nejsou tvrdé. Jsou prázdné. O to je to horší. Mávne na dvě sestry, tobě už nevěnuje pozornost. Ztratil si pro ni podstatnost. Když stále postáváš jenom klidně pronese: \n\n *Zaznamenám tvé svědectví a ohlásím tvůj zápal Otci Ignisovi. Bude potěšen, jak oddaného člena zde máme. Oddaného natolik, že dokáže zpřetrhat rodinná pouta ve jménu očisty světa.*", 
+    "options": [
+      {
+        "label": "Poděkuješ a odejdeš zpět do svého pokoje.",
+        "faction": "Očistec",
+        "next": "konec_ocistec"
+      },
+      {
+        "label": "Mlčky odejdeš a zamíříš zpět ke dveřím",
+        "faction": "Přijímající",
+        "next": "PA"
+      }
+    ]
+  },
+  "konec_ocistec": {
+    "question": "Vracíš se do svého pokoje s tíhou na hrudi a neklidem v duši. Myslíš na to, co jsi slyšel. Sám ale víš, že to nic nezmění. \n\n Lehneš si na postel a zavřeš oči.\n\n Za chvíli slyšíš těžké kroky. Dveře se otevřou a dvě sestry ve sterilních bílých pláštích vstupují.\n\n *Půjdete s námi. Vyšetření musí proběhnout okamžitě,* zní místností chladným a nekompromisním hlasem.\n\n Zůstáváš zaražený, ale víš, že odpor je marný.\n\n Odvádějí tě chodbou až do izolované místnosti, která je hlídána stráží. V hlavě se ti honí otázky — co teď? Co s tebou bude? \n\n Po hodinách čekání do místnosti vchází soudkyně Premis. Její oči jsou chladné, bez stopy slitování. Její hlas klidný, pragmatický. \n\n *Tvá výpověď je rozporuplná. Sestry nenašly nic co by odpovídalo tvému svědectví. Vzhledem k tomu, co víme o Zkáze, nemohu tvá slova brát na lehkou váhu. Zkáza se neptá na příběhy ani city. Očistíme vše, co ohrožuje řád.* \n\n Snažíš se něco říct, ale její pohled tě umlčuje. Tvá role felčara tu končí — začíná boj o přežití v karanténě, kde bolest a samota jsou jedinou jistotou.",
+    "end": true
+  },
+  "konec_prijimajici": {
+    "question": "Slunce zapadá za temné hory. Daleko od přísných očí Výhně v Mintharu. Kolem tebe se rozprostírá zem, které byl dán dar. Pro tvé staré já? Zem zpustošená Zkázou. Čas plyne jinak. Stojíš uprostřed tichého společenství Přijímajících. Okolo tebe se klikatí kořeny a liány. Pohledy těch kteří se vzdali minulosti a přijali novou podobu. Vůně pryskyřice, zrezivělých kovů a hlíny prostupuje vzduch. Tvůj dech je pomalý, srdce bije jiným rytmem. Vědomí se ti rozplývá v tichu, bolest ustupuje.\n\n Z dálky slyšíš vzdálený šepot Lunessy, Matky Stínů, která bdí nad těmi, kdo opustili starý svět. Víš, že tvá cesta je teprve začátkem — cesta bez návratu, kde se splynutí s čímkoliv, co Morbus Tenebrae je, stává novou realitou. Ale v hloubi duše, pod tou bílou kůží a pod rostoucími kořínky, zůstává stále lidskost — Elf který jednou miloval a bojoval.\n\n Tato jiskra tě vede dál, v novém světle, do náruče Přijímajících.",
+    "end": true
+  },
+
+"konec_ocistec2": {
+  "question": "Bez váhání vytáhneš ampulku s tekutým ohněm. S tichým třísknutím dopadne na zem sklepa, kde se rozprskne a zažehne silný oheň. Plameny okamžitě začnou pohlcovat tmavé kouty, syčet a praskat vše uvnitř hoří.\n\n Zabouchnutí dveří je konečné, nemožné to vzít zpět. Zpoza dveří se rozléhá kvílení, křik a chaos. \n\n  Až najednou ticho. Jsi sám — s vinou, která tě svírá jako železná pouta.\n\n Zničil si víc, než místnost a zásoby v ní. Zničil jsi kousek sebe, který jsi myslel, že už si dávno ztratil. S každým nádechem ti mizí naděje. Kolem tebe je jen horký vzduch, těžký dech a chladná prázdnota, kterou už nic nenaplní.\n\n Věříš, že jsi ochránil Minthral, ale na tom místě, kde dřív byla dcera, je teď jen tma — a ty jsi ten, kdo ji tam zasel.",
+  "end": true
+},
+
+"konec_ocistec3": {
+  "question": "Zvedneš hlavu k zahalené postavě. V krku máš sucho, ale hlas je pevný. \n\n *Ať si pro mě přijde Solmer.*\n\n Podá ti malou skleněnou nádobku. Tekutina uvnitř se matně leskne. \n\n *Vypij a bude ti odpuštěno,* řekne prostě.\n\n První doušek chutná hořce. Druhý pálí jako kyselina. Třetí ti vyrve dech. Hrudník se svírá, svaly se ti stahují do křeče. Na chvíli máš pocit, že ti praskne lebka. Přesto nepouštíš nádobku, dokud nezůstane prázdná.\n\n Poklekneš. Tělo se třese, ale uvnitř roste tichý klid. Není to příjemné, spíš prázdné, zapomění, nevědomost. Padáš bezvládně na zem.\n\n *Hotovo,* pronese žena a odvrátí se. Už pro ni nejsi zajímavý.\n\n Poslední, co zahlédneš, než tě pohltí tma, je nebe bez hvězd. A s ním i pocit, že bolest, strach a vzpomínky zůstaly někde daleko za tebou. Ale aspoň bude rodina celá a tvůj bůh má radost.",
+  "end": true
+},
+
+
+"PB": {
+        "question": "Natáhneš se pro její ruku. Když ji chceš chytit, tvá ruka nahmatá jen vzduch... Párkrát se o to pokusíš znovu, ale marně. Tvá dcera, kterou jsi před sebou ještě před chvilkou viděl zcela jasně a zřetelně se nyní rozplynula jako mlha. Nejsi žádný hlupák, je ti jasné, co se děje. Na chvilku si sedneš, obejmeš si kolena a necháš emoce, aby se ustálily a vstřebaly se.\n\n Když se aspoň trochu vypořádáš s tím, že už tu nemůžeš zůstat a máš mizivou šanci na přežití, vstaneš, zbalíš si nezbytnosti a vydáš se pryč z Minthralu. Pod falešnou záminkou tě stráže pustí ven, z karanténní zóny a ty jdeš. Jdeš a nevíš kam. Na tom vlastně nesejde, pokud máš halucinace, máš dost času na to najít někde místo, kde pokud ti Lunessa požehná, přežiješ tu nejhorší část nákazy a nikdo tě nebude otravovat. Víš, že šance je jenom zhruba 20 %, ale stále si říkáš, že pokud to nevyjde, aspoň bude rodina zase pohromadě. \n\n Po pár dnech cesty a ohromné bolesti padneš na kolena a obličejem do bláta. Když se dostaneš k vědomí a zvedneš hlavu, vidíš před tebou sedět osobu zahalenou potrhaným plášťem. Přes kápi nejde vidět do tváře, ale všimneš si, přes díry, že její kůže je našedivělá. Najednou se ozve ženský hlas.\n\n *Zdravíčko, poutníku. Jsem ráda, že jsi vzhůru, já jsem Melony. A ty koukám, se buď brzy staneš jedním z nás, nebo tě Lunessa přijme k sobě. Mám pro tebe návrh. Mohu ti pomoct s tvojí přeměnou, aby byla co nejméně bolestivá a nebo ti pomohu, aby tě vzal k sobě Solmer a ty si umřel důstojně. Za to, co si v životě věřil a bojoval. Stačí si vybrat. Soudit tě nebudu.*\n\n Vzdáš se poslední naděje a přijmeš Lunessu, Matku Stínů, ochráňkyni ticha a snů? Nebo někde hluboko v tobě je přeci jen ještě trochu naděje a přijmeš svůj osud důstojně, se ctí a přijmeš Solmera, otce poledne, ochránce řádu a světla?",
+
+    "options": [
+      {
+        "label": "Požádáš Solmera o odpuštění.",
+        "faction": "Očistec",
+        "next": "konec_ocistec3"
+      },
+      {
+        "label": "Přijmeš Lunessu",
+        "faction": "Přijímající",
+        "next": "konec_prijimajici"
+      }
+    ]
+  }
+}
+         

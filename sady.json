@@ -1,0 +1,34 @@
+{
+  "Sada 1": {
+    "nazev": "Kdo si hraje, nezlobí",
+    "artefakty": ["artefakt_id_1", "artefakt_id_2","artefakt_id_7","artefakt_id_8"],
+    "popis": "Zůčastni se hraní komunitních her",
+    "podminky": {
+      "level": 1}
+  },
+  
+  "Volba1": {
+    "nazev": "Volba osudu",
+    "popis": "Zvol si svoji frakci", 
+    "artefakty": ["artefakt_id_3"],
+    "podminky": {  
+      "level":1}
+    },
+
+"Volba2": {
+    "nazev": "Volba osudu",
+    "popis": "Zvol si svoji frakci", 
+    "artefakty": ["artefakt_id_4"],
+    "podminky": {  
+      "level":1}
+    },
+   
+"Sada 2": {
+    "nazev": "Klikař",
+    "popis": "Díky štěstí se ti povedlo, získat tyto artefakty. A nebo si zjistil jak na to.", 
+    "artefakty": ["artefakt_id_5", "artefakt_id_9"],
+    "podminky": {  
+      "level":1}
+    }
+}
+

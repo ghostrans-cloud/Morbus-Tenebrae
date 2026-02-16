@@ -1,0 +1,318 @@
+{
+    "804480783464792115": {
+        "jmeno": "izumichandomcak",
+        "xp": 700,
+        "level": 8,
+        "frakce": "Očistec",
+        "last_daily": 1758228904,
+        "faction_path": [
+            "Očistec",
+            "Očistec"
+        ]
+    },
+    "373555392808222720": {
+        "jmeno": "zharnos",
+        "xp": 0,
+        "level": 1,
+        "frakce": "Přijímající",
+        "artefakty": [
+            "artefakt_id_4",
+            "artefakt_id_5"
+        ],
+        "pouzite_kody": [
+            "YP72",
+            "QJ61"
+        ]
+    },
+    "234038621022322700": {
+        "jmeno": "capri_sonnne",
+        "xp": 0,
+        "level": 1,
+        "frakce": "Očistec",
+        "artefakty": [
+            "artefakt_id_3",
+            "artefakt_id_2"
+        ],
+        "pouzite_kody": [
+            "GN94",
+            "BV70"
+        ]
+    },
+    "795227710121050122": {
+        "jmeno": "prumysl",
+        "xp": 0,
+        "level": 1,
+        "frakce": "Očistec",
+        "artefakty": [
+            "artefakt_id_3",
+            "artefakt_id_5"
+        ],
+        "pouzite_kody": [
+            "CX32",
+            "SZ59"
+        ]
+    },
+    "853329970066751528": {
+        "jmeno": "cia4a",
+        "xp": 0,
+        "level": 1,
+        "frakce": "Očistec",
+        "artefakty": [
+            "artefakt_id_3",
+            "artefakt_id_5"
+        ],
+        "pouzite_kody": [
+            "LU15",
+            "MP05"
+        ]
+    },
+    "752961941370175682": {
+        "jmeno": "yumislav",
+        "xp": 400,
+        "level": 5,
+        "frakce": "Přijímající",
+        "artefakty": [
+            "artefakt_id_5",
+            "artefakt_id_4",
+            "artefakt_id_2"
+        ],
+        "pouzite_kody": [
+            "RB92",
+            "TD46",
+            "LJ04"
+        ],
+        "last_daily": 1757961173,
+        "faction_path": []
+    },
+    "1377017784743104596": {
+        "jmeno": "m.b.meloni",
+        "xp": 0,
+        "level": 1,
+        "frakce": "Přijímající",
+        "artefakty": [
+            "artefakt_id_1",
+            "artefakt_id_4"
+        ],
+        "pouzite_kody": [
+            "XR44",
+            "TZ53"
+        ]
+    },
+    "809103795841663006": {
+        "jmeno": "pahvajcz",
+        "xp": 0,
+        "level": 1,
+        "frakce": "Očistec",
+        "faction_path": [],
+        "artefakty": [
+            "artefakt_id_3",
+            "artefakt_id_6"
+        ],
+        "pouzite_kody": [
+            "HD39",
+            "IY70"
+        ]
+    },
+    "797863364629757964": {
+        "jmeno": "co_je_ti_do_toho",
+        "xp": 200,
+        "level": 3,
+        "frakce": "Přijímající",
+        "last_daily": 1768947574,
+        "artefakty": [
+            "artefakt_id_1"
+        ],
+        "pouzite_kody": [
+            "TJ65"
+        ],
+        "faction_path": [
+            "Očistec",
+            "Přijímající",
+            "Očistec",
+            "Přijímající",
+            "Očistec"
+        ]
+    },
+    "526058239398510592": {
+        "jmeno": "aknel",
+        "xp": 0,
+        "level": 1,
+        "frakce": null,
+        "faction_path": [
+            "Očistec",
+            "Přijímající"
+        ]
+    },
+    "1047184625161748481": {
+        "jmeno": "arllxsz",
+        "xp": 50,
+        "level": 1,
+        "frakce": null,
+        "artefakty": [
+            "artefakt_id_2",
+            "artefakt_id_5"
+        ],
+        "pouzite_kody": [
+            "DW62",
+            "ZB48"
+        ],
+        "last_daily": 1755959455
+    },
+    "700622125903380621": {
+        "jmeno": "urichako",
+        "xp": 0,
+        "level": 1,
+        "frakce": "Přijímající",
+        "artefakty": [
+            "artefakt_id_4"
+        ],
+        "pouzite_kody": [
+            "JW49"
+        ]
+    },
+    "1410233211250020372": {
+        "jmeno": "arch1esaurus_",
+        "xp": 0,
+        "level": 1,
+        "frakce": "Přijímající",
+        "artefakty": [
+            "artefakt_id_6"
+        ],
+        "pouzite_kody": [
+            "BF96"
+        ]
+    },
+    "362621007548121099": {
+        "jmeno": "timothysooth",
+        "xp": 0,
+        "level": 1,
+        "frakce": "Přijímající",
+        "artefakty": [
+            "artefakt_id_4"
+        ],
+        "pouzite_kody": [
+            "PG12"
+        ]
+    },
+    "751678171925053530": {
+        "jmeno": "trip769",
+        "xp": 200,
+        "level": 3,
+        "frakce": "Přijímající",
+        "artefakty": [
+            "artefakt_id_2",
+            "artefakt_id_4",
+            "artefakt_id_5"
+        ],
+        "pouzite_kody": [
+            "PL84",
+            "DR04",
+            "VE03"
+        ],
+        "last_daily": 1757620734
+    },
+    "456082965131427841": {
+        "jmeno": "_dr_dick",
+        "xp": 0,
+        "level": 1,
+        "frakce": "Očistec",
+        "artefakty": [
+            "artefakt_id_3",
+            "artefakt_id_5"
+        ],
+        "pouzite_kody": [
+            "OK18",
+            "CZ80"
+        ]
+    },
+    "418128386985164802": {
+        "jmeno": "jinsrj",
+        "xp": 0,
+        "level": 1,
+        "frakce": null
+    },
+    "316196636961406977": {
+        "jmeno": "deren4948",
+        "xp": 0,
+        "level": 1,
+        "frakce": null
+    },
+    "1036004755656425612": {
+        "jmeno": "haruhi_0_",
+        "xp": 50,
+        "level": 1,
+        "frakce": "Přijímající",
+        "artefakty": [
+            "artefakt_id_1",
+            "artefakt_id_6",
+            "artefakt_id_5"
+        ],
+        "pouzite_kody": [
+            "KE36",
+            "AS38",
+            "EZ91"
+        ],
+        "last_daily": 1757803286
+    },
+    "559634172902375424": {
+        "jmeno": "sirkarman",
+        "xp": 50,
+        "level": 1,
+        "frakce": null,
+        "last_daily": 1768947580,
+        "faction_path": []
+    },
+    "1014846514155241473": {
+        "jmeno": "coffeet4ble",
+        "xp": 50,
+        "level": 1,
+        "frakce": "Přijímající",
+        "artefakty": [
+            "artefakt_id_4",
+            "artefakt_id_6"
+        ],
+        "pouzite_kody": [
+            "AE07",
+            "UV59"
+        ],
+        "last_daily": 1769025787,
+        "faction_path": []
+    },
+    "725457641978986538": {
+        "jmeno": "cpscout",
+        "xp": 100,
+        "level": 2,
+        "frakce": "Přijímající",
+        "artefakty": [
+            "artefakt_id_4",
+            "artefakt_id_5",
+            "artefakt_id_9"
+        ],
+        "pouzite_kody": [
+            "RI63",
+            "LM74",
+            "EQ12"
+        ],
+        "last_daily": 1769786564
+    },
+    "339872012480675854": {
+        "jmeno": "kejklir",
+        "xp": 0,
+        "level": 1,
+        "frakce": null,
+        "faction_path": []
+    },
+    "832268432681599034": {
+        "jmeno": "jigsawthedoc",
+        "xp": 0,
+        "level": 1,
+        "frakce": null
+    },
+    "598631709059186720": {
+        "jmeno": "kanzakifc",
+        "xp": 0,
+        "level": 1,
+        "frakce": null,
+        "faction_path": []
+    }
+}

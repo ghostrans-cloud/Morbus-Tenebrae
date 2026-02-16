@@ -1,0 +1,16 @@
+{
+  "Popel": {
+    "name": "Popel",
+    "attack": 3,
+    "hp": 3,
+    "mana_cost": 2,
+    "class": "Basic"
+  },
+  "Plamen": {
+    "name": "Plamen",
+    "attack": 2,
+    "hp": 2,
+    "mana_cost": 1,
+    "class": "Basic"
+  }
+}
