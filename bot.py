@@ -7,12 +7,10 @@ import time
 from dotenv import load_dotenv
 from discord.ext import commands
 from discord import Option
-import json
 import sys
 import asyncio
 from discord.ui import View, Button
 from collections import Counter
-from discord import Option
 from discord.ui import View, Select
 import requests
 from discord import ApplicationContext, Embed
@@ -958,4 +956,5 @@ async def volba(ctx):
     await ctx.respond(embed=embed, view=VolbaView(str(ctx.author.id)), ephemeral=True)
 
 bot.run(TOKEN)
+
    
