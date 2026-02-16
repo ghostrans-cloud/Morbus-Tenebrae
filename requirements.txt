@@ -1,0 +1,5 @@
+discord
+dotenv
+asyncio
+discord.interactions
+requests
