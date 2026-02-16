@@ -15,7 +15,7 @@ from discord.ui import View, Select
 import requests
 from discord import ApplicationContext, Embed
 from discord.interactions import Interaction
-import card_game
+#import card_game
 
 
 
@@ -405,7 +405,7 @@ class QuestionView(discord.ui.View):
                 pass  # zpráva už byla smazána nebo neexistuje
 
 def sync_sheet_with_artefakty():
-    artefakty = load_json(ARTEFAKTY_FILE)
+    artefakty = load_json(ARTEFAKTY_FILE):q
     sheet_items = gs_get()  # [{'artefakt_id': 'artefakt_id_1', 'code': 'FN03'}, ...]
     sheet_codes = {it.get('code') for it in sheet_items}
 
