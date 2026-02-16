@@ -15,7 +15,7 @@ from discord.ui import View, Select
 import requests
 from discord import ApplicationContext, Embed
 from discord.interactions import Interaction
-#import card_game
+#import card_game Hello
 
 
 
